@@ -1,12 +1,3 @@
-/**
-* @Author: tc.lam
-* @Date: 2022/7/10 下午11:37
-* @Software : GoLand
-* @File: prelude
-* @Description:
-* @Return:
-**/
-
 package log
 
 import "github.com/sirupsen/logrus"
